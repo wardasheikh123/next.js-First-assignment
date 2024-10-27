@@ -1,0 +1,4 @@
+const contactusPage = () => {
+    <div>this a contact us page</div>
+};
+export default contactusPage;
